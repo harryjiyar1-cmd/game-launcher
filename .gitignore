@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Build files from packaging
+build/
+dist/
+*.spec
+
+# Local environment and editor files
+.env
+.idea/
